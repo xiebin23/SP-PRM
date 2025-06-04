@@ -1,8 +1,8 @@
-# SPRM
+# SP-PRM
 
 ## Introduction
 
-Welcome to the SPRM project repository. In this repository, you will find the code and supplementary materials related to our research.
+Welcome to the SP-PRM project repository. In this repository, you will find the code and supplementary materials related to our research.
 
 ## Installation
 
@@ -11,15 +11,15 @@ To set up the project locally, please follow the instructions below:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/WeepCat/SPRM.git
-   cd SPRM
+   git clone https://github.com/WeepCat/SP-PRM.git
+   cd SP-PRM
    ```
 
 2. Create and activate a virtual environment:
 
    ```sh
-   conda create -n sprm python=3.10
-   conda activate sprm
+   conda create -n sp_prm python=3.10
+   conda activate sp_prm
    ```
 
 3. Install the required dependencies:
