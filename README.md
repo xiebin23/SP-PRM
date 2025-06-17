@@ -11,7 +11,7 @@ To set up the project locally, please follow the instructions below:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/WeepCat/SP-PRM.git
+   git clone https://github.com/xiebin23/SP-PRM.git
    cd SP-PRM
    ```
 
