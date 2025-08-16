@@ -1,6 +1,6 @@
 # SP-PRM
 <p align="center">
-  <a href="https://arxiv.org/abs/2503.03746"> 📃 Paper</a> |  
+  <a href="https://www.arxiv.org/abs/2506.12446"> 📃 Paper</a> |  
   <a href="https://weepcat.github.io/"> 📭 Contact</a> 
 </p>
 
