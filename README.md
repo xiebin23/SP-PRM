@@ -1,8 +1,13 @@
 # SP-PRM
+<p align="center">
+  <a href="https://arxiv.org/abs/2503.03746"> 📃 Paper</a> |  
+  <a href="https://weepcat.github.io/"> 📭 Contact</a> 
+</p>
+
+## Accepted by ACL 2025 (Main).
 
 ## Introduction
-
-Welcome to the SP-PRM project repository. In this repository, you will find the code and supplementary materials related to our research.
+This repository shares the code and data of our latest work "From Outcomes to Processes: Guiding PRM Learning from ORM for Inference-Time Alignment".
 
 ## Installation
 
@@ -57,3 +62,23 @@ After setting up the environment, you can run the experiments and analysis scrip
    python evaluation/hh_baseline_results_evaluate_by_diversity.py
    python evaluation/hh_baseline_results_evaluate_by_coherence.py
    ```
+
+## Citation
+If you find this repository helpful, feel free to cite our paper.
+
+```bibtex
+@inproceedings{xie-etal-2025-outcomes,
+    title = "From Outcomes to Processes: Guiding {PRM} Learning from {ORM} for Inference-Time Alignment",
+    author = "Xie, Bin and Xu, Bingbing  and Yuan, Yige  and Zhu, Shengmao and Shen, Huawei",
+    year = "2025",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.946/",
+    doi = "10.18653/v1/2025.acl-long.946",
+    pages = "19291--19307",
+    ISBN = "979-8-89176-251-0",
+}
+```
