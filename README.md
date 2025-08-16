@@ -8,7 +8,8 @@
 
 ## Introduction
 This repository shares the code and data of our latest work "From Outcomes to Processes: Guiding PRM Learning from ORM for Inference-Time Alignment".
-<img src='./framework.png' alt="sym" width="100%">
+
+<img src='./framework.png' alt="sym" width="100%" title="Framework">
 
 
 ## Installation
